@@ -5,6 +5,9 @@ This project explores sustainability-related lifestyle patterns in Sir George Sm
 **Project Overview**
 
 This project analyzes lifestyle behavior and environmental impact within Sir George Smart City. It explores energy use, transportation patterns, carbon emissions, work habits, and other key sustainability metrics. Through an interactive Power BI dashboard, the analysis identifies trends across age groups and lifestyle categories to support smarter, greener city planning.
+# Dashboard Preview 
+![Dashboard2](https://github.com/user-attachments/assets/c395cd64-c96e-411f-9f6d-55f14a2a09bd)
+
 
 **Data Source**
 
@@ -61,8 +64,6 @@ The Excel dashboard is structured for dynamic exploration of smart city behavior
 * **Encourage Low-Carbon Shopping Habits**: Campaigns promoting eco-friendly products and less frequent consumption.
 * **Health Awareness Initiatives**: Tailor fitness programs to demographic needs based on calorie burn and activity levels.
 
-
-https://1drv.ms/x/c/781a54128a800484/ERRtNiO4rUlDl1OW4C6jmoUBVk033_pw2yhMcDbIzMhD1Q?e=gREtoe
 
 **Conclusion**
 
